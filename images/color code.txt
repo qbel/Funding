@@ -1,0 +1,5 @@
+#007b5e: green
+
+#282b2c: dark grey
+
+font: open-sans

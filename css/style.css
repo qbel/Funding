@@ -1,0 +1,140 @@
+body{
+    font-family: "Open Sans";
+}
+#btnone{
+    color:#007b5e;
+    /* margin-left: 100px; */
+}
+#btnone:hover{
+    background-color:#007b5e;
+    color:white; 
+}
+#try{
+    background: url(../images/cover.jpg) no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; 
+    background-size: cover;
+    padding-bottom: 210px;
+}
+#crowd{
+    text-align: center;
+    font-family: open-sans;
+    color: white;
+    font-size:65px;
+    padding-top:200px;
+}
+#get{
+    min-width: 250px;
+    max-width: 250px;
+    background-color:#007b5e;
+    color: white;
+    font-weight: bolder;
+    font-size:20px;
+    border-radius: 20px;
+}
+#latest{
+    color: #007b5e;
+    font-weight: bolder;
+}
+#show{
+    font-size:25px;
+}
+#show a{
+    color: black;
+    text-decoration: none;
+}
+#design{
+    font-weight:bolder;
+}
+#paragraph{
+    text-align#007b5e: justify
+}
+#price{
+    color: #007b5e;
+    font-size:22px;
+}
+#load{
+    color:#007b5e;
+    text-align: center !important;
+    font-size:30px;
+    padding-top:20px;
+}
+#fund{
+    color:#ffffff;
+    text-align: center;
+    font-size:35px;
+    padding-top:20px;
+}
+#text{
+    color: #ffffff;
+    text-align: center;
+}
+#steps{
+    color:#ffffff;
+    font-size:25px;
+    padding-left:50px;
+    padding-top:10px;
+}
+#tips{
+    color:#ffffff;
+    font-size:20px;
+    padding-left:10px;
+}
+#mid{
+    background: url(../images/bg2.jpg) no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; 
+    background-size: cover;
+    padding-bottom: 210px;
+}
+#create{
+    font-weight:bolder;
+    color:#ffffff;
+    padding-top:150px;
+    font-size:40px;
+}
+#next{
+    padding-top:100px;
+    color: #ffffff;
+    font-size:16px;
+    text-align: justify;
+}
+#middle{
+    background-color:#007b5e;
+    padding-top:40px;
+    padding-bottom:40px;
+}
+#items{
+    font-size:20px;
+    color:#ffffff;
+}
+#items a{
+    color:#ffffff;
+    text-decoration: none;
+}
+#copy{
+    color:#ffffff;
+    font-size:20px;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    color:#ffffff;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.8;
+    color:white;
+}
+#span {
+    font-size: 20px;
+    border-radius: 50%;
+    border: 5px solid; 
+    padding: 10px;
+    color:#007b5e;
+    
+}
